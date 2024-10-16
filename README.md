@@ -1,1 +1,1 @@
-the abc.txt foler is the img folder where all the images are saved
+the abc.txt folder is the img folder where all the images are saved
